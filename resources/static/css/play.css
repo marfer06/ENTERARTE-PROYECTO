@@ -1,0 +1,30 @@
+#success_message{ display: none;}
+
+.container{
+    margin-top: 60px;
+    border-radius: 20px;
+    margin-bottom: 150px;
+    margin-bottom: 150px; 
+}
+
+.form-horizontal{
+    padding: 2%;
+    border-radius: 5px;
+    box-shadow: dimgray 0px 0px 10px;
+    
+    
+    max-width: 880px;
+    padding: 15px 35px 45px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+
+.imagencrop{
+    display: none;
+}
+
+.image_container{
+  max-width: 800px;
+  max-height: 450px;
+}
